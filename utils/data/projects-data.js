@@ -18,7 +18,7 @@ export const projectsData = [
     {
         id: 2,
         name: 'IT Noticias',
-        description: '',
+        description: 'Is a news app that allows users to read the latest news, search for news, and filter news by category. The app has a role-based authentication system, and users can save their favorite news articles. The app is built using NextJS, TailwindCSS, and MongoDB. We used Context API for state management and JWT for authentication. We also used Postman for API testing and Vercel for deployment.',
         tools: ['NextJS', 'Tailwind CSS', "TypeScript", 'MongoDB', 'Express', 'Mongoose', 'JWT', 'Bycript', 'Postman', 'Vercel', 'FL0', 'Context API'],
         role: 'Full Stack Developer',
         code: '',
