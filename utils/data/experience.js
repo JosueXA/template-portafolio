@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: "Front-End Developer",
+    company: "Laboratorio de Diseño Gráfico Salsa S.A.P.I. de C.V.",
+    duration: "(Sep 2021 - May 2022)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "Front-End Developer",
+    company: "Fragmenta Soluciones Digitales",
+    duration: "(Apr 2021 - Sep 2021)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "FullStack Developer",
+    company: "BoogApp S.A. de C.V.",
+    duration: "(Jan 2020 - Apr 2021)"
   }
 ]

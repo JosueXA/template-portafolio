@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Full Stack MERN Web Development ",
+    duration: "2019 - 2020",
+    institution: "Kodemia",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "IT Technical Certificate",
+    duration: "2010 - 2014",
+    institution: "CECyT 12 José María Morelos, IPN",
   },
   {
     id: 3,
     title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    duration: "2006 - 2009",
+    institution: "Escuela Secundaria Diurna No. 220 'Agustín Yáñez' ",
   }
 ]
