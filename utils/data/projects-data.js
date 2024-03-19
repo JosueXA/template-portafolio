@@ -8,7 +8,7 @@ export const projectsData = [
         id: 1,
 
         name: 'Crustopia App',
-        description: "",
+        description: "It is a website for the sale of pizzas, empanadas, soft drinks, etc. with which you link with WhatsApp to place the order. It is developed with React, Node, Express, MongoDB, JWT, SASS, Postman, Jira, FL0, Vercel, Firebase technologies. The Scrum work model was used and the deployment was carried out in Vercel and Firebase.",
         tools: ['Express', 'Node', 'React', 'JWT', 'SASS', 'Postman', 'Jira', 'FL0', 'Vercel', 'Firebase' ],
         role: 'Backend Developer',
         code: '',
